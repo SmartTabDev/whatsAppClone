@@ -1,0 +1,4 @@
+{
+    "name": "WhatsppClone",
+    "plugins": ["react-native-compressor"]
+  }
